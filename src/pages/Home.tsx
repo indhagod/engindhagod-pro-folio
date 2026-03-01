@@ -109,7 +109,7 @@ export default function Home() {
       {/* Counters */}
       <section className="section-padding">
         <div className="max-w-4xl mx-auto grid grid-cols-2 md:grid-cols-4 gap-8">
-          <CounterCard end={5} suffix="+" label="Years Experience" />
+          <CounterCard end={2} suffix="+" label="Years Experience" />
           <CounterCard end={120} suffix="+" label="Projects Completed" />
           <CounterCard end={80} suffix="+" label="Happy Clients" />
           <CounterCard end={15} suffix="+" label="Awards Won" />
