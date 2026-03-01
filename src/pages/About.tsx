@@ -2,11 +2,9 @@ import { useScrollAnimation } from '@/hooks/useScrollAnimation';
 import { GraduationCap, Target, Eye, Heart } from 'lucide-react';
 
 const timeline = [
-  { year: '2019', title: 'Started Web Development', desc: 'Began learning HTML, CSS, and JavaScript.' },
-  { year: '2020', title: 'Freelance Designer', desc: 'Started graphic design and branding for local businesses.' },
-  { year: '2021', title: 'Full-Stack Development', desc: 'Mastered React, Node.js, and MongoDB.' },
-  { year: '2022', title: 'Multimedia & Marketing', desc: 'Expanded into video editing and digital marketing.' },
-  { year: '2023–Present', title: 'Eng Indhagod Brand', desc: 'Building a tech startup-style personal brand.' },
+  { year: 'Aug 2024', title: 'Started Professional Journey', desc: 'Began full-stack web development, graphic design, and multimedia creation.' },
+  { year: '2025', title: 'Growing & Expanding', desc: 'Took on clients, built brands, and expanded into digital marketing.' },
+  { year: '2025–Present', title: 'Eng Indhagod Brand', desc: 'Building a tech startup-style personal brand and serving businesses.' },
 ];
 
 const values = [
