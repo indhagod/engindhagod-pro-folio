@@ -11,7 +11,7 @@ const services = [
 ];
 
 const techStack = [
-  'React', 'Node.js', 'JavaScript', 'MongoDB', 'Express',
+  'React', 'Node.js', 'JavaScript', 'Tailwind CSS', 'MongoDB', 'Express',
   'Figma', 'Photoshop', 'Illustrator', 'Premiere Pro', 'After Effects',
 ];
 
