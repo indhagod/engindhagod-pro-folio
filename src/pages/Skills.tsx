@@ -27,9 +27,9 @@ const skillCategories = [
     title: 'Multimedia',
     color: 'primary',
     skills: [
-      { name: 'Premiere Pro', level: 88 },
-      { name: 'After Effects', level: 82 },
-      { name: 'Lightroom', level: 90 },
+      { name: 'Adobe Illustrator', level: 92 },
+      { name: 'Adobe Photoshop', level: 90 },
+      { name: 'Adobe Premiere Pro', level: 88 },
     ],
   },
 ];
