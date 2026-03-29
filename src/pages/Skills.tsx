@@ -8,7 +8,7 @@ const skillCategories = [
       { name: 'HTML & CSS', level: 95 },
       { name: 'JavaScript', level: 90 },
       { name: 'React', level: 88 },
-      { name: 'TypeScript', level: 80 },
+      
       { name: 'Node.js', level: 85 },
       { name: 'Express', level: 82 },
       { name: 'MongoDB', level: 78 },
